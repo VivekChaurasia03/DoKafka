@@ -1,0 +1,11 @@
+{
+  "name": "DoKafka",
+  "version": "1.0.0",
+  "description": "Simple application to understand the working of Apache Kafka.",
+  "main": "index.js",
+  "author": "Vivek Chaurasia",
+  "license": "MIT",
+  "dependencies": {
+    "kafkajs": "^2.2.4"
+  }
+}
