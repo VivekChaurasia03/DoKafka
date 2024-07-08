@@ -93,3 +93,9 @@ node consumer.js my-group
 -   **`admin.js`**: Contains the script to create the Kafka topic `rider-updates`.
 -   **`producer.js`**: Contains the script to send messages to the `rider-updates` topic.
 -   **`consumer.js`**: Contains the script to consume messages from the `rider-updates` topic.
+
+## Snapshots for better understanding
+
+-   [One Consumer Group](One_Consumer_One_Group.png)
+-   [Two Consumer One Group](Two_Consumer_One_Group.png)
+-   [Two Consumer Groups](Two_Consumer_Groups.png)
