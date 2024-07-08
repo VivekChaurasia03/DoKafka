@@ -96,6 +96,14 @@ node consumer.js my-group
 
 ## Snapshots for better understanding
 
--   [One Consumer Group](One_Consumer_One_Group.png)
--   [Two Consumer One Group](Two_Consumer_One_Group.png)
--   [Two Consumer Groups](Two_Consumer_Groups.png)
+### One Consumer One Group
+
+![One Consumer One Group](./One_Consumer_One_Group.png)
+
+### Two Consumer One Group
+
+![Two Consumer One Group](./Two_Consumer_One_Group.png)
+
+### Two Consumer Groups
+
+![Two Consumer Groups](./Two_Consumer_Groups.png)
