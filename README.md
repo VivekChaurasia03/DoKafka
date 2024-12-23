@@ -7,7 +7,7 @@ This project demonstrates the basic usage of Apache Kafka with `kafkajs` in a No
 -   Node.js
 -   Docker
 -   Apache Kafka
--   Yarn
+-   npm
 
 ## Installation
 
@@ -21,7 +21,7 @@ This project demonstrates the basic usage of Apache Kafka with `kafkajs` in a No
 2. **Install dependencies**
 
     ```bash
-    yarn install
+    npm install
     ```
 
 ## Configuration
